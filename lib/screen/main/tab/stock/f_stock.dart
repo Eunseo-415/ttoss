@@ -11,7 +11,7 @@ class StockFragment extends StatefulWidget {
 }
 
 class _StockFragmentState extends State<StockFragment> {
-  final tabController = TabController(length: length, vsync: vsync)
+  // final tabController = TabController(length: length, vsync: vsync)
   @override
   Widget build(BuildContext context) {
     return Container(
